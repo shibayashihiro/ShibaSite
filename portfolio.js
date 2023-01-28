@@ -1,24 +1,24 @@
 import emoji from "react-easy-emoji";
 
 export const greetings = {
-	name: "Hanzla Tauqeer",
-	title: "Hi all, I'm Hanzla",
+	name: "Shiba Yashihiro",
+	title: "Hi all, I'm Shiba. こんにちは、シバです",
 	description:
-		"I'm passionate Full Stack web developer having an experience of web applications with Python, Django, React.js, Next.js and Blockchain development on Ethereum, Solidity, Web3.js, Moralis, and Brownie Framework.",
+		"I'm passionate Full Stack web developer having an experience of web applications with Laravel, Yii, CodeIgniter, WordPress, Magento, Drupal, Joomla, Angular, React.js and Vue.js.",
 	resumeLink:
 		"https://docs.google.com/document/d/1_4RIfbyt4FFHW_bNplnoINQr01neTu7XDeeUlT_2O_k/edit?usp=sharing",
 };
 
 export const openSource = {
-	githubUserName: "1hanzla100",
+	githubUserName: "ShibaYashihiro",
 };
 
 export const contact = {};
 
 export const socialLinks = {
-	url: "https://1hanzla100.github.io/",
+	url: "https://ShibaYashihiro.github.io/",
 	linkedin: "https://www.linkedin.com/in/1hanzla100/",
-	github: "https://github.com/1hanzla100",
+	github: "https://github.com/ShibaYashihiro",
 	instagram: "https://www.instagram.com/__hanzla100",
 	facebook: "https://www.facebook.com/1hanzla100",
 	twitter: "https://twitter.com/1hanzla100",
@@ -55,12 +55,52 @@ export const skillsSection = {
 					fontAwesomeClassname: "logos:javascript",
 				},
 				{
+					skillName: "jQuery",
+					fontAwesomeClassname: "logos:jquery",
+				},
+				{
+					skillName: "PHP",
+					fontAwesomeClassname: "vscode-icons:file-type-php",
+				},
+				{
+					skillName: "mysql",
+					fontAwesomeClassname: "vscode-icons:file-type-mysql",
+				},
+				{
+					skillName: "Laravel",
+					fontAwesomeClassname: "logos:laravel",
+				},
+				{
+					skillName: "Yii",
+					fontAwesomeClassname: "logos:yii",
+				},
+				{
+					skillName: "CodeIgniter",
+					fontAwesomeClassname: "logos:codeigniter",
+				},
+				{
+					skillName: "WordPress",
+					fontAwesomeClassname: "logos:wordpress",
+				},
+				{
+					skillName: "Magento",
+					fontAwesomeClassname: "logos:magento",
+				},
+				{
+					skillName: "Drupal",
+					fontAwesomeClassname: "logos:drupal",
+				},
+				{
+					skillName: "Joomla",
+					fontAwesomeClassname: "logos:joomla",
+				},
+				{
 					skillName: "Reactjs",
 					fontAwesomeClassname: "vscode-icons:file-type-reactjs",
 				},
 				{
-					skillName: "Nextjs",
-					fontAwesomeClassname: "vscode-icons:file-type-light-next",
+					skillName: "Vuejs",
+					fontAwesomeClassname: "logos:vuejs",
 				},
 				{
 					skillName: "Python",
@@ -70,7 +110,6 @@ export const skillsSection = {
 					skillName: "Django",
 					fontAwesomeClassname: "vscode-icons:file-type-django",
 				},
-
 				{
 					skillName: "Redux",
 					fontAwesomeClassname: "logos:redux",
@@ -141,49 +180,49 @@ export const skillsSection = {
 				},
 			],
 		},
-		{
-			title: "Blockchain",
-			lottieAnimationFile: "/lottie/skills/ethereum.json", // Path of Lottie Animation JSON File
-			skills: [
-				emoji(
-					"⚡ Experience in developing Smart Contract using Solidity & Ethereum"
-				),
-				emoji(
-					"⚡ Building Scripts for automated testing & deployment of Smart Contracts using Brownie & Infura"
-				),
-				emoji(
-					"⚡ Experience of using Openzeppelin Smart Contract Standards & Chainlink Oracles"
-				),
-				emoji(
-					"⚡ Developing NFT Smart Contracts using ERC-721 Token Standard"
-				),
-				emoji(
-					"⚡ Building Dapps with React.js & Solidity using Web3.js, Moralis & IPFS"
-				),
-			],
-			softwareSkills: [
-				{
-					skillName: "Ethereum",
-					fontAwesomeClassname: "logos:ethereum",
-				},
-				{
-					skillName: "Solidity",
-					fontAwesomeClassname: "logos:solidity",
-				},
-				{
-					skillName: "Web3js",
-					fontAwesomeClassname: "logos:web3js",
-				},
-				{
-					skillName: "Metamask",
-					fontAwesomeClassname: "logos:metamask-icon",
-				},
-				{
-					skillName: "Ganache",
-					fontAwesomeClassname: "logos:ganache-icon",
-				},
-			],
-		},
+		// {
+		// 	title: "Blockchain",
+		// 	lottieAnimationFile: "/lottie/skills/ethereum.json", // Path of Lottie Animation JSON File
+		// 	skills: [
+		// 		emoji(
+		// 			"⚡ Experience in developing Smart Contract using Solidity & Ethereum"
+		// 		),
+		// 		emoji(
+		// 			"⚡ Building Scripts for automated testing & deployment of Smart Contracts using Brownie & Infura"
+		// 		),
+		// 		emoji(
+		// 			"⚡ Experience of using Openzeppelin Smart Contract Standards & Chainlink Oracles"
+		// 		),
+		// 		emoji(
+		// 			"⚡ Developing NFT Smart Contracts using ERC-721 Token Standard"
+		// 		),
+		// 		emoji(
+		// 			"⚡ Building Dapps with React.js & Solidity using Web3.js, Moralis & IPFS"
+		// 		),
+		// 	],
+		// 	softwareSkills: [
+		// 		{
+		// 			skillName: "Ethereum",
+		// 			fontAwesomeClassname: "logos:ethereum",
+		// 		},
+		// 		{
+		// 			skillName: "Solidity",
+		// 			fontAwesomeClassname: "logos:solidity",
+		// 		},
+		// 		{
+		// 			skillName: "Web3js",
+		// 			fontAwesomeClassname: "logos:web3js",
+		// 		},
+		// 		{
+		// 			skillName: "Metamask",
+		// 			fontAwesomeClassname: "logos:metamask-icon",
+		// 		},
+		// 		{
+		// 			skillName: "Ganache",
+		// 			fontAwesomeClassname: "logos:ganache-icon",
+		// 		},
+		// 	],
+		// },
 	],
 };
 
