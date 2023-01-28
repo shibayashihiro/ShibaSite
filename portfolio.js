@@ -229,65 +229,80 @@ export const skillsSection = {
 export const SkillBars = [
 	{
 		Stack: "Frontend/Design", //Insert stack or technology you have experience in
-		progressPercentage: "90", //Insert relative proficiency in percentage
+		progressPercentage: "84", //Insert relative proficiency in percentage
 	},
 	{
 		Stack: "Backend",
-		progressPercentage: "70",
+		progressPercentage: "90",
+	},
+	{
+		Stack: "WordPress & Magento",
+		progressPercentage: "93",
 	},
 	{
 		Stack: "Programming",
-		progressPercentage: "60",
+		progressPercentage: "89",
 	},
 ];
 
 export const educationInfo = [
 	{
-		schoolName: "Harvard University",
+		schoolName: "Juno College",
 		subHeader: "Master of Science in Computer Science",
-		duration: "September 2017 - April 2019",
-		desc: "Participated in the research of XXX and published 3 papers.",
+		duration: "April 2012 - July 2015",
+		desc: "Relevant Coursework:",
 		grade: "Grade A",
 		descBullets: [
-			"Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit",
-			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+			"Operating Systems Architecture",
+			"Linux/Unix Programming",
+			"Usability in Website and Software Design",
+			"C++ Programming I & II",
+			"Web Page Development",
+			"Relational Database Design & SQL",
+			"Data Engineering",
+			"Advanced Software Programming",
+
 		],
 	},
 ];
 
 export const experience = [
 	{
-		role: "Frontend Developer",
-		company: "Duseca Software",
-		companylogo: "/img/icons/common/dusecaSoftware.jpg",
-		date: "Apr 2022 – Jun 2022",
-		desc: "I worked as frontend web developer to design web based admin dashboards for mulitple apps using Django, Bootstrap, jQuery, Chart.js and some other libraries.",
-	},
-	{
-		role: "API Engineer",
-		company: "Duseca Software",
-		companylogo: "/img/icons/common/dusecaSoftware.jpg",
-		date: "Jan 2022 – Mar 2022",
-		desc: "I worked as API Engineer on a Kale App. Kale is a community platform for the creation of social reviews based on verified transactions. I built Fully Optimized and High Performance RESTful APIs using Django, DjangoRESTFramework, PostgresSQL, JWT Authentication, AWS, Integrated Plaid APIs for Fetching Bank Transactions, Integrated Sentry for monitoring Django Server and deployed the API on Heroku Server.",
-		// descBullets: [
-		// 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
-		// 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-		// ],
-	},
-	{
 		role: "Full Stack Developer",
-		company: "Bleed-AI",
-		companylogo: "/img/icons/common/bleedAI.jpg",
-		date: "Sept 2021 - Oct 2021",
-		desc: "Worked as django web developer to create a website in which I integrated computer vision AI model (built by the team of BleedAI) to process YouTube URLs and show Real Time processing on Website using Django Channels WebSockets , threading for running multiple instances of AI Model, jQuery for UI rendering and deployed it on Heroku server.",
+		company: "247 LABS INC",
+		companylogo: "/img/icons/common/247_labs.png",
+		date: "Dec 2017 – Mar 2022",
+		desc: "Key Qualifications & Responsibilities",
+		descBullets: [
+			"Developed full-stack web applications which processed, analyzed, and rendered data visually.",
+			"Liaised with back end developers, front end developers, quality assurance testers, and CTO as needed.",
+			"Managed time-sensitive updates, including content changes and database upgrades.",
+			"Planned, wrote, and debugged web applications and software with complete accuracy.",
+			"Implemented websites, mobile applications, and landing pages from concept through deployment.",
+			"Standardized all output with a new, responsive, mobile-first approach and strategy.",
+			"Assessed UX and UI designs for technical feasibility.",
+			"Developed standard and ad hoc reports in graph format as required.",
+			"Collaborated with product team members to implement new feature developments.",
+		],
+		
 	},
 	{
-		role: "Backend Developer",
-		company: "Wapidu",
-		companylogo: "/img/icons/common/wapidu.jpg",
-		date: "Sept 2021",
-		desc: "Worked as a Django Developer to integrate Stripe payment gateway in wapidu.com and Created REST APIs using Django REST Framework to integrate Django Stripe backend to Vue.js Frontend and Deployed it on Azure based Docker container registry.",
+		role: "Junior Full Stack Developer",
+		company: "Saritasa",
+		companylogo: "/img/icons/common/saritasa.png",
+		date: "Sep 2015 – Jul 2017",
+		desc: "Key Qualifications & Responsibilities",
+		descBullets: [
+			" Created and used a prototype library for AJAX development.",
+			" Upgraded PHP CodeIgniter and other framework applications to fit adapting client needs.",
+			" Integrated various third party API’s using SOAP/XML.",
+			" Maximized applications’ efficiency, data quality, scope, operability, and flexibility.",
+			" Used various ideas from distributed computing, large-scale design, real-time data processing, data storage, ML, and AI to solve challenging dataset problems.",
+			" Managed, optimized, and updated PHP databases as necessary.",
+			" Developed app integration with REST / SOAP and other APIs for Google Maps, social media logins, payment processors, and other services.",
+		],
 	},
+	
 ];
 
 export const projects = [
@@ -332,19 +347,19 @@ export const showContactUs = true;
 
 // See object prototype on SEO.jsx page
 export const seoData = {
-	title: "Hanzla Tauqeer",
+	title: "Shiba Yashihiro",
 	description:
-		"A passionate Full Stack Web Developer and Blockchain Developer.",
-	author: "Hanzla Tauqeer",
+		"A passionate Full Stack Web Developer.",
+	author: "Shiba Yashihiro",
 	image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
 	url: "https://developer-portfolio-1hanzla100.vercel.app",
 	keywords: [
-		"Hanzla",
-		"Hanzla Tauqeer",
-		"@1hanzla100",
-		"1hanzla100",
+		"Shiba",
+		"Shiba Yashihiro",
+		"@devstack777",
+		"devstack777",
 		"Portfolio",
-		"Hanzla Portfolio ",
-		"Hanzla Tauqeer Portfolio",
+		"Shiba Portfolio ",
+		"Shiba Yashihiro Portfolio",
 	],
 }
