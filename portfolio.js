@@ -6,7 +6,7 @@ export const greetings = {
 	description:
 		"I'm passionate Full Stack web developer having an experience of web applications with Laravel, Yii, CodeIgniter, WordPress, Magento, Drupal, Joomla, Angular, React.js and Vue.js.",
 	resumeLink:
-		"https://docs.google.com/document/d/1_4RIfbyt4FFHW_bNplnoINQr01neTu7XDeeUlT_2O_k/edit?usp=sharing",
+		"https://drive.google.com/file/d/1nq0LHQ-XOZmHd5U6Fo7gquOUJ8vz3Vkn/view?usp=share_link",
 };
 
 export const openSource = {
@@ -16,12 +16,12 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks = {
-	url: "https://ShibaYashihiro.github.io/",
-	linkedin: "https://www.linkedin.com/in/1hanzla100/",
+	url: "https://app.joinrise.co/professional/shibayashihirobm7av",
+	// linkedin: "https://www.linkedin.com/in/1hanzla100/",
 	github: "https://github.com/ShibaYashihiro",
-	instagram: "https://www.instagram.com/__hanzla100",
-	facebook: "https://www.facebook.com/1hanzla100",
-	twitter: "https://twitter.com/1hanzla100",
+	// instagram: "https://www.instagram.com/__hanzla100",
+	// facebook: "https://www.facebook.com/1hanzla100",
+	// twitter: "https://twitter.com/1hanzla100",
 };
 
 export const skillsSection = {
@@ -100,7 +100,7 @@ export const skillsSection = {
 				},
 				{
 					skillName: "Vuejs",
-					fontAwesomeClassname: "logos:vuejs",
+					fontAwesomeClassname: "logos:vue",
 				},
 				{
 					skillName: "Python",
@@ -307,38 +307,29 @@ export const experience = [
 
 export const projects = [
 	{
-		name: "developer-portfolio",
-		desc: "Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.",
-		github: "https://github.com/1hanzla100/developer-portfolio",
-		link: "https://developer-portfolio-1hanzla100.vercel.app/",
+		name: "Catering Spares (Ecommerce)",
+		desc: "This Site built with magento2.x, updated new latest version.",
+		github: "https://github.com/ShibaYashihiro/Caterinspares_magento2.4.3_p3",
+		link: "https://www.cateringspares.com.au",
 	},
 	{
-		name: "AtlasMart",
-		desc: "With Atlas Mart, it’s easy to find the products with the best price and ship them straight to your door.",
-		github: "https://github.com/1hanzla100/Django-React-Marketplace",
-	},
-	{
-		name: "Technota (Forum)",
-		desc: "Get hands-on experience in technical skills with Technota",
-		github: "https://github.com/1hanzla100/django-react-forum",
-	},
-	{
-		name: "Shopaza (Ecommerce)",
-		desc: "Now your reach to all your favorite entertainment and luxury items is just one touch apart",
-		github: "https://github.com/1hanzla100/Django-ecommerce",
+		name: "Seravo (WordPress)",
+		desc: "A WordPress project layout for use with Git, Composer and Nginx. It also includes a config a Vagrant box and Docker image for local development.",
+		github: "https://github.com/ShibaYashihiro/Seravo_WP",
+		link: "https://seravo.com/en/",
 	},
 ];
 
 export const feedbacks = [
 	{
-		name: "John Smith",
+		name: "Charis O.",
 		feedback:
-			"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.",
+			"Excellent and timely communication. Work was done very well, high technical knowledge. ",
 	},
 	{
-		name: "John Smith",
+		name: "Gibran S.",
 		feedback:
-			"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.",
+			"It was extremely nice working with Shiba. The communication was easy and clear, the work was high quality, and done within time & budget. Highly recommended. Will hire again!",
 	},
 ];
 
@@ -352,7 +343,7 @@ export const seoData = {
 		"A passionate Full Stack Web Developer.",
 	author: "Shiba Yashihiro",
 	image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
-	url: "https://developer-portfolio-1hanzla100.vercel.app",
+	url: "https://shibayashihiro.vercel.app",
 	keywords: [
 		"Shiba",
 		"Shiba Yashihiro",
