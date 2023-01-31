@@ -17,11 +17,11 @@ export const contact = {};
 
 export const socialLinks = {
 	url: "https://app.joinrise.co/professional/shibayashihirobm7av",
-	// linkedin: "https://www.linkedin.com/in/1hanzla100/",
+	linkedin: "https://shibayashihiro.vercel.app",
 	github: "https://github.com/ShibaYashihiro",
-	// instagram: "https://www.instagram.com/__hanzla100",
-	// facebook: "https://www.facebook.com/1hanzla100",
-	// twitter: "https://twitter.com/1hanzla100",
+	instagram: "https://shibayashihiro.vercel.app",
+	facebook: "https://shibayashihiro.vercel.app",
+	twitter: "https://shibayashihiro.vercel.app",
 };
 
 export const skillsSection = {
