@@ -6,7 +6,7 @@ export const greetings = {
 	description:
 		"I'm passionate Full Stack web developer having an experience of web applications with Laravel, Yii, CodeIgniter, WordPress, Magento, Drupal, Joomla, Angular, React.js and Vue.js.",
 	resumeLink:
-		"https://drive.google.com/file/d/1nq0LHQ-XOZmHd5U6Fo7gquOUJ8vz3Vkn/view?usp=share_link",
+		"https://drive.google.com/file/d/1KbCV08ZdwJW7NnRSJWujBJcVdJirxzok/view?usp=share_link",
 };
 
 export const openSource = {
