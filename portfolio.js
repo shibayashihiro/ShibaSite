@@ -318,6 +318,12 @@ export const projects = [
 		github: "https://github.com/ShibaYashihiro/Seravo_WP",
 		link: "https://seravo.com/en/",
 	},
+	{
+		name: "SchoolMaster (Livewire/Alipin)",
+		desc: "This site built with Alpine.js and Livewire.",
+		github: "https://github.com/ShibaYashihiro/SchoolMaster_livewire",
+		link: "https://www.uniranks.com",
+	}
 ];
 
 export const feedbacks = [
@@ -331,6 +337,16 @@ export const feedbacks = [
 		feedback:
 			"It was extremely nice working with Shiba. The communication was easy and clear, the work was high quality, and done within time & budget. Highly recommended. Will hire again!",
 	},
+	{
+		name:"Jorge D.",
+		feedback:
+			"Working with Shiba was great. He was accessible and extremely collaborative on this project. He completed all milestones quickly and ahead of schedule. I will definitely go back to him for my next project.",
+	},
+	{
+		name:"Cristi B.",
+		feedback:
+			"Shiba was punctual, creative and hard-working. He's a great lovely peep to work with!"
+	}
 ];
 
 // option to hide or show the ContactUs component
